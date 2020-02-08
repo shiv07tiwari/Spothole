@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackgroundBorderless"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/nav_header_imageView"
+        android:layout_width="80dp"
+        android:layout_gravity="center"
+        android:layout_height="80dp"
+        android:src="@drawable/pothole" />
+
+    <TextView
+        android:id="@+id/nav_header_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="26sp"
+        android:textColor="@color/white"
+        android:paddingTop="16dp"
+        android:textAlignment="center"
+        android:text="Jogli"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/white_smoke"
+        android:textSize="16dp"
+        android:layout_marginTop="5dp"
+        android:text="You detected 10 Potholes"/>
+</LinearLayout>

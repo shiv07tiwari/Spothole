@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.google.android.material:material:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4a8a2ff61729c0e607bf5eab5726c677/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/966705fa1586529d1007328cb45c977f/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/19bf1170d9c21c616b60bd1173d6f134/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komal/.gradle/caches/transforms-2/files-2.1/5ced732566e368c062583722e89e05d0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2c8e2ce4fe21c1a95608711ad740ccdc/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:2:1-29:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/4abb3224446789c91c274cc9865246c9/library-1.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4abf2571e23fa0e97ecf8a597595a23a/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/a837a136dc54dc9ed98e12d0247c2530/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e444d8664f6d86c5e6166a47fe3d1110/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e2ffe66c9235beae30265ed3393325a3/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/d830a7a5069b863358e2206e15696f27/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/7e5752981e19721716572389d8e731d5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b7dd6e27fcbc1df54464f35611401b88/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/0571ba338d7e78e8e31464a218ff0bb6/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2f549458cbe0883d635781a3f1b47da1/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/7e742424b419d2a7c46e91d4daf262a0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/8d3ffdff154d2b1595294e4da3cb81ea/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/35caea7eb3c25c7aa0d54d2640c1ffca/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/25565fbf982d927901d11813f7944512/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/6bcf783dc2276f6c79ce8b844eb8a2b2/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/28c22dbe0de7682f4dc004d8e0900851/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/5213c2365dc50f3f64423cc3b8317eae/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/cc53f0d4de2b687de0f9ff868979e433/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/c7e28cf33a8972d116e817b742b7a10c/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/15ac49a81c7ecc7eccc113cea557f7dd/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/ac926b25c553bcc6bbdede61eb1dcb54/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2d4babb74e8978d311e48784ea596d9a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/6434591f8218011f4ab276849e299ed6/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/972244be96f994f2690f54bd7aec53d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4c1c9dcb37daf914239714c10a54da9e/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/46da82174caa87d4bf4da19099031a64/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/67841b53bf0c5eabd650f50a84dc1059/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/142a3948580e3543ccb1f761f6249da7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/5a5ef1b5399ebed0450b2a7d3ecd8bf9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/3d2719f98dfe15b82e74ec00c94a7053/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:14:22-78
+application
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:16:5-57:19
+MERGED from [com.google.android.material:material:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4a8a2ff61729c0e607bf5eab5726c677/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4a8a2ff61729c0e607bf5eab5726c677/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komal/.gradle/caches/transforms-2/files-2.1/5ced732566e368c062583722e89e05d0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komal/.gradle/caches/transforms-2/files-2.1/5ced732566e368c062583722e89e05d0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2c8e2ce4fe21c1a95608711ad740ccdc/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2c8e2ce4fe21c1a95608711ad740ccdc/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/4abb3224446789c91c274cc9865246c9/library-1.0.1/AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/4abb3224446789c91c274cc9865246c9/library-1.0.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/a837a136dc54dc9ed98e12d0247c2530/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/a837a136dc54dc9ed98e12d0247c2530/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e444d8664f6d86c5e6166a47fe3d1110/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e444d8664f6d86c5e6166a47fe3d1110/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/c7e28cf33a8972d116e817b742b7a10c/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/c7e28cf33a8972d116e817b742b7a10c/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/15ac49a81c7ecc7eccc113cea557f7dd/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/15ac49a81c7ecc7eccc113cea557f7dd/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/c7e28cf33a8972d116e817b742b7a10c/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:22:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:33:13-58
+activity#com.example.wheresthepothole.MapsActivity
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:36:9-38:68
+	android:label
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:37:13-41
+activity#com.example.wheresthepothole.MapActivity
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:39:9-47:20
+	android:parentActivityName
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:42:13-55
+	android:label
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:41:13-55
+	android:theme
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:40:13-40
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:44:13-46:77
+	android:value
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:46:17-74
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:45:17-63
+activity#com.example.wheresthepothole.MainActivity
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:48:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:52:27-74
+activity#com.example.wheresthepothole.SensorActivity
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:55:9-52
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:55:19-49
+activity#com.example.wheresthepothole.ProfileActivity
+ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:56:9-53
+	android:name
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:56:19-50
+uses-sdk
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4a8a2ff61729c0e607bf5eab5726c677/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4a8a2ff61729c0e607bf5eab5726c677/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/966705fa1586529d1007328cb45c977f/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/966705fa1586529d1007328cb45c977f/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/19bf1170d9c21c616b60bd1173d6f134/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/19bf1170d9c21c616b60bd1173d6f134/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komal/.gradle/caches/transforms-2/files-2.1/5ced732566e368c062583722e89e05d0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komal/.gradle/caches/transforms-2/files-2.1/5ced732566e368c062583722e89e05d0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2c8e2ce4fe21c1a95608711ad740ccdc/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2c8e2ce4fe21c1a95608711ad740ccdc/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/4abb3224446789c91c274cc9865246c9/library-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/4abb3224446789c91c274cc9865246c9/library-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4abf2571e23fa0e97ecf8a597595a23a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4abf2571e23fa0e97ecf8a597595a23a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/a837a136dc54dc9ed98e12d0247c2530/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/a837a136dc54dc9ed98e12d0247c2530/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e444d8664f6d86c5e6166a47fe3d1110/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e444d8664f6d86c5e6166a47fe3d1110/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e2ffe66c9235beae30265ed3393325a3/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/e2ffe66c9235beae30265ed3393325a3/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/d830a7a5069b863358e2206e15696f27/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/d830a7a5069b863358e2206e15696f27/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/7e5752981e19721716572389d8e731d5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/7e5752981e19721716572389d8e731d5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b7dd6e27fcbc1df54464f35611401b88/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b7dd6e27fcbc1df54464f35611401b88/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/0571ba338d7e78e8e31464a218ff0bb6/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/komal/.gradle/caches/transforms-2/files-2.1/0571ba338d7e78e8e31464a218ff0bb6/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2f549458cbe0883d635781a3f1b47da1/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2f549458cbe0883d635781a3f1b47da1/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/7e742424b419d2a7c46e91d4daf262a0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/7e742424b419d2a7c46e91d4daf262a0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/8d3ffdff154d2b1595294e4da3cb81ea/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/8d3ffdff154d2b1595294e4da3cb81ea/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/35caea7eb3c25c7aa0d54d2640c1ffca/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/35caea7eb3c25c7aa0d54d2640c1ffca/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/25565fbf982d927901d11813f7944512/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/25565fbf982d927901d11813f7944512/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/6bcf783dc2276f6c79ce8b844eb8a2b2/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/6bcf783dc2276f6c79ce8b844eb8a2b2/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/28c22dbe0de7682f4dc004d8e0900851/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/28c22dbe0de7682f4dc004d8e0900851/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/5213c2365dc50f3f64423cc3b8317eae/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/5213c2365dc50f3f64423cc3b8317eae/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/cc53f0d4de2b687de0f9ff868979e433/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/cc53f0d4de2b687de0f9ff868979e433/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/c7e28cf33a8972d116e817b742b7a10c/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/komal/.gradle/caches/transforms-2/files-2.1/c7e28cf33a8972d116e817b742b7a10c/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/15ac49a81c7ecc7eccc113cea557f7dd/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/15ac49a81c7ecc7eccc113cea557f7dd/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/ac926b25c553bcc6bbdede61eb1dcb54/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/ac926b25c553bcc6bbdede61eb1dcb54/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2d4babb74e8978d311e48784ea596d9a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/2d4babb74e8978d311e48784ea596d9a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/6434591f8218011f4ab276849e299ed6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/6434591f8218011f4ab276849e299ed6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/972244be96f994f2690f54bd7aec53d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/972244be96f994f2690f54bd7aec53d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4c1c9dcb37daf914239714c10a54da9e/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/4c1c9dcb37daf914239714c10a54da9e/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/46da82174caa87d4bf4da19099031a64/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/46da82174caa87d4bf4da19099031a64/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/67841b53bf0c5eabd650f50a84dc1059/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/67841b53bf0c5eabd650f50a84dc1059/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/142a3948580e3543ccb1f761f6249da7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/142a3948580e3543ccb1f761f6249da7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/5a5ef1b5399ebed0450b2a7d3ecd8bf9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/5a5ef1b5399ebed0450b2a7d3ecd8bf9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/3d2719f98dfe15b82e74ec00c94a7053/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/3d2719f98dfe15b82e74ec00c94a7053/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+		ADDED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+		INJECTED from /home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:26:9-45
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
