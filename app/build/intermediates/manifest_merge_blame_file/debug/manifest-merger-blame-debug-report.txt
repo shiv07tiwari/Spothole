@@ -73,7 +73,7 @@
 42-->[org.osmdroid:osmdroid-android:6.1.1] /home/komal/.gradle/caches/transforms-2/files-2.1/a9bad88a2a98456a2bddf9a6455a3a1f/osmdroid-android-6.1.1/AndroidManifest.xml:27:9-33
 43
 44    <application
-44-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:16:5-57:19
+44-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:16:5-60:19
 45        android:allowBackup="true"
 45-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:17:9-35
 46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -149,29 +149,36 @@
 87        <activity android:name="com.example.wheresthepothole.ProfileActivity" />
 87-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:56:9-53
 87-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:56:19-50
-88        <!-- Needs to be explicitly declared on P+ -->
-89        <uses-library
-89-->[com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
-90            android:name="org.apache.http.legacy"
-90-->[com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
-91            android:required="false" />
-91-->[com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
-92
-93        <activity
-93-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
-94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-94-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-95            android:exported="false"
-95-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
-96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-96-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
-97
-98        <meta-data
-98-->[com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-99            android:name="com.google.android.gms.version"
-99-->[com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
-100            android:value="@integer/google_play_services_version" />
-100-->[com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
-101    </application>
-102
-103</manifest>
+88        <activity android:name="com.example.wheresthepothole.RewardActivity" />
+88-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:57:9-52
+88-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:57:19-49
+89        <activity android:name="com.example.wheresthepothole.CarActivity" />
+89-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:58:9-49
+89-->/home/komal/AndroidStudioProjects/WheresThePothole/app/src/main/AndroidManifest.xml:58:19-46
+90
+91        <!-- Needs to be explicitly declared on P+ -->
+92        <uses-library
+92-->[com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+93            android:name="org.apache.http.legacy"
+93-->[com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+94            android:required="false" />
+94-->[com.google.android.gms:play-services-maps:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/b6f40824f159f6ef54587d73ab962690/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+95
+96        <activity
+96-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+97            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+97-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+98            android:exported="false"
+98-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+99            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+99-->[com.google.android.gms:play-services-base:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/bd7ffce8bc7e102b617ae65808d5ed1c/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+100
+101        <meta-data
+101-->[com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+102            android:name="com.google.android.gms.version"
+102-->[com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+103            android:value="@integer/google_play_services_version" />
+103-->[com.google.android.gms:play-services-basement:17.0.0] /home/komal/.gradle/caches/transforms-2/files-2.1/24d91e363ccc6fc2cfc65568ff43f957/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+104    </application>
+105
+106</manifest>

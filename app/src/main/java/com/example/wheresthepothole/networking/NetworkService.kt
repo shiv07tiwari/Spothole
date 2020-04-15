@@ -4,18 +4,15 @@ import com.example.wheresthepothole.objects.Counter
 import com.example.wheresthepothole.objects.DataReading
 import com.example.wheresthepothole.objects.Pothole
 import retrofit2.Call
-import retrofit2.http.Body
-import retrofit2.http.GET
-import retrofit2.http.POST
-import retrofit2.http.Path
+import retrofit2.http.*
 
 interface NetworkService {
     @POST("/ispothole")
     fun checkPothole(@Body potholeQuery: DataReading): Call<String>
 
     @GET("/userpothole")
-    fun getUserPotholes (@Path("user_id") userId : String,
-                         @Path("type") type:String) : Call<Pothole>
+    fun getUserPotholes (@Query("user_id") userId : String,
+                         @Query("type") type:String) : Call<ArrayList<Pothole>>
     @GET("/counter")
     fun getHomeCounters(@Path("city") city : String) : Call<Counter>
 }

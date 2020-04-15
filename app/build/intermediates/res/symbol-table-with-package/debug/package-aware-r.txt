@@ -1266,10 +1266,12 @@ drawable person
 drawable pothole
 drawable pothole_repair
 drawable previous
+drawable road
 drawable round_navigation_white_48
 drawable sharp_add_black_36
 drawable sharp_remove_black_36
 drawable start
+drawable thanks
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable track
@@ -1319,6 +1321,7 @@ id bubble_moreinfo
 id bubble_subdescription
 id bubble_title
 id buttonPanel
+id car_list_id
 id card_view
 id center
 id centerImage
@@ -1327,13 +1330,17 @@ id center_vertical
 id chains
 id checkbox
 id chronometer
-id city_cnt
 id clip_horizontal
 id clip_vertical
+id cnt1
+id cnt2
+id cnt3
+id cnt4
 id collapseActionView
 id container
 id content
 id contentPanel
+id contri_id
 id coordinator
 id custom
 id customPanel
@@ -1382,6 +1389,7 @@ id invite_id
 id italic
 id item_touch_helper_previous_elevation
 id labeled
+id lalla
 id largeLabel
 id left
 id light
@@ -1392,6 +1400,7 @@ id list_item
 id login_btn
 id logout_id
 id map
+id map_id
 id map_view
 id masked
 id message
@@ -1428,6 +1437,7 @@ id radio
 id right
 id right_icon
 id right_side
+id rl_custom_layout
 id satellite
 id save_image_matrix
 id save_non_transition_alpha
@@ -1502,6 +1512,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id trip_id
 id txt_instruction
+id txt_time
 id txt_trip_duration
 id uniform
 id unlabeled
@@ -1511,7 +1522,6 @@ id view_offset_helper
 id visible
 id wide
 id withText
-id world_cnt
 id wrap
 id wrap_content
 integer abc_config_activityDefaultDur
@@ -1565,6 +1575,7 @@ layout abc_tooltip
 layout activity_main
 layout activity_map
 layout activity_maps
+layout activity_popup
 layout activity_profile
 layout activity_report_details
 layout activity_reward
@@ -1602,6 +1613,7 @@ menu activity_main_drawer
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw metoo
+raw potholewarning
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

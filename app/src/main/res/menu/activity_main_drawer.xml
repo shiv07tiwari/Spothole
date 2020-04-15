@@ -5,6 +5,8 @@
             android:title="Trip" />
         <item android:id="@+id/invite_id"
             android:title="Invite" />
+        <item android:id="@+id/contri_id"
+            android:title="Your Contribution" />
         <item android:id="@+id/logout_id"
             android:title="Logout" />
 

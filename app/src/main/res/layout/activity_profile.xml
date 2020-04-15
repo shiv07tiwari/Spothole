@@ -17,76 +17,110 @@
             layout="@layout/app_bar_main"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:orientation="horizontal"
-        android:padding="5dp"
-        android:background="@color/or_yellow"
-        android:layout_weight="1">
         <LinearLayout
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:orientation="vertical"
-            android:layout_gravity="center"
-            android:layout_height="wrap_content">
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_gravity="center"
-            android:textSize="18sp"
-            android:textColor="@color/black"
-            android:text="Total Potholes in World"
-            android:layout_height="match_parent" />
-            <TextView
-                android:id="@+id/world_cnt"
-                android:layout_width="wrap_content"
-                android:textColor="@color/black"
-                android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:background="@color/or_yellow"
+            android:layout_weight="1">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginRight="8dp"
+                android:orientation="vertical"
                 android:layout_gravity="center"
-                android:text="100"
-                android:layout_height="match_parent" />
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:text="Total Existing"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:id="@+id/cnt1"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:layout_gravity="center"
+                    android:text="22"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:textSize="20sp"
+                    android:layout_marginTop="8dp"
+                    android:textColor="@color/black"
+                    android:text="Total Resolved"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:id="@+id/cnt2"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:layout_gravity="center"
+                    android:text="19"
+                    android:layout_height="match_parent" />
 
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:text="Total in City"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:id="@+id/cnt3"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="17"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:textSize="20sp"
+                    android:layout_marginTop="8dp"
+
+                    android:textColor="@color/black"
+                    android:text="Resolved in City"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:id="@+id/cnt4"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="15"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
         </LinearLayout>
 
         <LinearLayout
-            android:layout_width="0dp"
-            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
             android:orientation="vertical"
-            android:layout_gravity="center"
-            android:layout_height="wrap_content">
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_gravity="center"
-                android:textSize="18sp"
-                android:textColor="@color/black"
-                android:text="Total Potholes in City"
-                android:layout_height="match_parent" />
-            <TextView
-                android:id="@+id/city_cnt"
-                android:layout_width="wrap_content"
-                android:layout_gravity="center"
-                android:text="100"
-                android:textColor="@color/black"
-                android:textSize="16sp"
-                android:layout_height="match_parent" />
+            android:layout_weight="4">
 
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/my_recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:scrollbars="vertical" />
         </LinearLayout>
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:orientation="vertical"
-        android:layout_weight="5">
-
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/my_recycler_view"
-        android:scrollbars="vertical"
-        android:padding="4dp"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
-    </LinearLayout>
     </LinearLayout>
 
     <com.google.android.material.navigation.NavigationView
@@ -98,4 +132,3 @@
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
 </androidx.drawerlayout.widget.DrawerLayout>
-

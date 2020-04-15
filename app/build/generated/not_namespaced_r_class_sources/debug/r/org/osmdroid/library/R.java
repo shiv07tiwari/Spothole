@@ -31,11 +31,11 @@ public final class R {
         public static final int osm_ic_ic_map_ortho = 0x7f0700a7;
         public static final int person = 0x7f0700a8;
         public static final int previous = 0x7f0700ab;
-        public static final int round_navigation_white_48 = 0x7f0700ac;
-        public static final int sharp_add_black_36 = 0x7f0700ad;
-        public static final int sharp_remove_black_36 = 0x7f0700ae;
-        public static final int zoom_in = 0x7f0700b3;
-        public static final int zoom_out = 0x7f0700b4;
+        public static final int round_navigation_white_48 = 0x7f0700ad;
+        public static final int sharp_add_black_36 = 0x7f0700ae;
+        public static final int sharp_remove_black_36 = 0x7f0700af;
+        public static final int zoom_in = 0x7f0700b5;
+        public static final int zoom_out = 0x7f0700b6;
     }
     public static final class id {
         private id() {}
@@ -49,7 +49,7 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int bonuspack_bubble = 0x7f0b0024;
+        public static final int bonuspack_bubble = 0x7f0b0025;
     }
     public static final class string {
         private string() {}

@@ -15,10 +15,10 @@
         android:orientation="horizontal">
 
         <ImageView
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:src="@drawable/icon_pothole"
-            android:layout_marginRight="10dp"/>
+            android:layout_width="60dp"
+            android:layout_gravity="center"
+            android:layout_height="60dp"
+            android:src="@drawable/icon_pothole" />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -32,6 +32,7 @@
         android:text="You reported pothole at this Address"/>
             <TextView
                 android:layout_width="wrap_content"
+                android:id="@+id/txt_time"
                 android:layout_height="wrap_content"
                 android:textSize="16sp"
                 android:text="Timestamp"/>
